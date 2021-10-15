@@ -11,7 +11,16 @@ _site/
 
 .bundle
 .bundle/
+<<<<<<< HEAD
 vendor/
 
 
 .idea/
+||||||| constructed merge base
+vendor/
+=======
+vendor/
+
+# ide files
+.idea/
+>>>>>>> Added idea file to gitignore
